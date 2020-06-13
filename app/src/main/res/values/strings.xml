@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">layonet</string>
+    <string name="usuario">usuario</string>
+    <string name="contraseña">contraseña</string>
+    <string name="button">INICIAR</string>
+    <string name="button2">NOTAS</string>
+    <string name="button3">VENTAS</string>
+    <string name="checkBox">comprar</string>
+    <string name="button4">PAGAR</string>
+    <string name="button5">ATRAS</string>
+    <string name="textView">TOTAL</string>
+    <string name="textView2">TOTAL</string>
+    <string name="textView3">RECIBO</string>
+    <string name="textView4">CAMBIO</string>
+    <string name="button6">INICIO</string>
+</resources>
